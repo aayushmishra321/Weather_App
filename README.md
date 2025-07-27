@@ -88,12 +88,7 @@ Add current location weather using Geolocation API
 
 🧑‍💻 Author
 
-Aayush Mahesh Mishra
-
-📧 aayush.mishra17596@sakec.ac.in
-
-💼 LinkedIn
-
+Aayush Mahesh Mishra 
 
 
 ---
